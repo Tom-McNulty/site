@@ -49,3 +49,4 @@ jobs:
         BRANCH: main
         FOLDER: _site
         CLEAN: true
+        
